@@ -1,4 +1,5 @@
 # ecommerce-app
+<h1>Ecommerce app</h1>
 An ecommerce developed using Java, Jsp, Servlets, JDBC, Tomcat, Eclipse, HTML and CSS
 It consists of a UI which is developed using HTML, CSS and JSP.
 The processing takes palce with the help of Servelts and Java. 
