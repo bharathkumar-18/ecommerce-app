@@ -20,3 +20,4 @@ The project has various modules:
   ![img5](https://user-images.githubusercontent.com/92751444/235296115-fbd5a02e-8935-4380-b20b-a660434247c9.png)
   Add a new product to the catalogue:
   ![img6](https://user-images.githubusercontent.com/92751444/235296132-e1a2afb0-e8ba-487b-aa7e-c604a10e8b48.png)
+And, this is my first project😃
